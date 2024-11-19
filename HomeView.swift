@@ -12,7 +12,7 @@ struct HomeView: View {
         VStack {
             Text("Screen 2")
         }
-        .background(Color.red)
+        .background(Color.green)
     }
 }
 
