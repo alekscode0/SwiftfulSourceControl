@@ -12,7 +12,7 @@ struct HomeView: View {
         VStack {
             Text("Screen1")
         }
-        Button("Follow me", action: {
+        Button("Follow", action: {
             
         })
         .background(Color.green)
