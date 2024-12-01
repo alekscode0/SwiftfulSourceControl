@@ -1,0 +1,61 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods
+Pods/
+podspec.lock
+*.xcworkspace
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Flutter
+flutter_export_environment.sh
+
+# Archives
+*.xcarchive
+
+# Intermediate build files
+*.dSYM.zip
+*.dSYM
+
+# Symbolicate crash logs
+*.crash
+*.ipa
+*.app
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Testing
+*.result
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.lock
