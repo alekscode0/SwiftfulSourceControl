@@ -13,8 +13,8 @@ struct ProfileView: View {
     
     var body: some View {
         Text("Aleksandar")
-            .onAppear{
-                
+            .onAppear {
+                // do something
             }
     }
 }
