@@ -10,7 +10,7 @@ import SwiftUI
 struct HomeView: View {
     var body: some View {
         VStack {
-            Text("Screen")
+            Text("Screen1")
         }
         Button("Follow me", action: {
             
